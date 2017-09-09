@@ -1,3 +1,5 @@
+#### Unfortunately this project is no longer supported. For more updates check out http://twitter.com/Codecrumpet
+
 # Pancake
 Pancake is a UserCake installation rebuilt using the Bootstrap framework, some extra features have also been added.
 
